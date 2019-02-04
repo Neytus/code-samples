@@ -7,7 +7,7 @@ public DateTime? PublishUntil { get; set; }
 // EndDocSection
 
 
-// DocSection: multiple_content
+// DocSection: multiple_content_with_new_codename
 
 var recommendationClient = new RecommendationClient("recommendation_token", 5);
 var lastMonth = TimeSpan.FromDays(30).Milliseconds;
