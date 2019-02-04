@@ -1,0 +1,8 @@
+// DocSection: multiple_content_unpublishing
+
+public const string PublishUntilCodename = "publish_until";
+
+public DateTime? PublishUntil { get; set; }
+
+// EndDocSection
+
