@@ -1,5 +1,0 @@
-// DocSection: multiple_content
-
-Java supercode v3
-
-// EndDocSection
