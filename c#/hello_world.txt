@@ -1,5 +1,18 @@
-// DocSection: multiple_content_unpublishing
+import stuff;;;;;
+dfgfgd
+hf
+h
+dghgfgf
+hhh
 
-some c# code
+// DocSection: multiple_content_unpublishing_v2
+
+some c# code v2
+
+// EndDocSection
+
+// DocSection: multiple_content_unpublishing_v3
+
+some c# code v3
 
 // EndDocSection
