@@ -1,5 +1,0 @@
-// DocSection: single_someting
-
-fdkfhdkjshfdjhffkhfkdshfkjsd
-
-// EndDocSection
