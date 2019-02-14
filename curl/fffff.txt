@@ -1,0 +1,16 @@
+# DocSection: single_curlll
+
+curl --request GET \
+  --url https://deliver.kenticocloud.com/975bf280-fd91-488c-994c-2f04416e5ee3/items/on_roasts \
+  --header 'authorization: Bearer <YOUR_API_KEY>'
+
+# EndDocSection
+
+
+# DocSection: multiple_content_unpublishing_v2
+
+curl --request GET \
+  --url 'https://deliver.kenticocloud.com/975bf280-fd91-488c-994c-2f04416e5ee3/items?language=en-US&system.language=en-US&system.type=article' \
+  --header 'content-type: application/json'
+
+# EndDocSection
