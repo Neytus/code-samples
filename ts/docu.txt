@@ -1,0 +1,5 @@
+// DocSection: single_PR_TEST
+
+Typescriptovy kus super kodu 
+
+// EndDocSection
