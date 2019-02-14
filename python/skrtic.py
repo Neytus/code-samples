@@ -1,8 +1,8 @@
-# DocSection: single_skrtic
+# DocSection: single_skrtic_juhoamericky
 Python - skrtic velikan
 # EndDocSection
 
-# DocSection: single_velhad
+# DocSection: single_velhad_kralovsky
 Python - velhad
 
 
