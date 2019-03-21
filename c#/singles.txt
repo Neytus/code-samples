@@ -1,75 +1,75 @@
-// DocSection: single_c1
+// DocSection: c1
 1
 // EndDocSection
 
-// DocSection: single_c2
+// DocSection: c2
 2
 // EndDocSection
 
-// DocSection: single_c3
+// DocSection: c3
 3
 // EndDocSection
 
-// DocSection: single_c4
+// DocSection: c4
 4
 // EndDocSection
 
-// DocSection: single_c5
+// DocSection: c5
 5
 // EndDocSection
 
-// DocSection: single_c6
+// DocSection: c6
 6
 // EndDocSection
 
-// DocSection: single_c7
+// DocSection: c7
 7
 // EndDocSection
 
-// DocSection: single_c8
+// DocSection: c8
 8
 // EndDocSection
 
-// DocSection: single_c9
+// DocSection: c9
 9
 // EndDocSection
 
-// DocSection: single_c11
+// DocSection: c11
 11
 // EndDocSection
 
-// DocSection: single_c12
+// DocSection: c12
 12
 // EndDocSection
 
-// DocSection: single_c13
+// DocSection: c13
 13
 // EndDocSection
 
-// DocSection: single_c14
+// DocSection: c14
 14
 // EndDocSection
 
-// DocSection: single_c15
+// DocSection: c15
 15
 // EndDocSection
 
-// DocSection: single_c16
+// DocSection: c16
 16
 // EndDocSection
 
-// DocSection: single_c17
+// DocSection: c17
 17
 // EndDocSection
 
-// DocSection: single_c18
+// DocSection: c18
 18
 // EndDocSection
 
-// DocSection: single_c19
+// DocSection: c19
 19
 // EndDocSection
 
-// DocSection: single_c20
+// DocSection: c20
 20
 // EndDocSection
