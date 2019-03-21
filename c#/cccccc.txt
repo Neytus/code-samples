@@ -1,17 +1,17 @@
-// DocSection: single_ceeeeshaaaaarp
+// DocSection: ceeeeshaaaaarp
  
 C#
 
 // EndDocSection
 
-// DocSection: multiple_content_unpublishing_v2
+// DocSection: content_unpublishing_v2
 
 C# multiple
 
 // EndDocSection
 
 
-// DocSection: single_mamamamamaamamamma
+// DocSection: mamamamamaamamamma
 
 using System;
 using Newtonsoft.Json;
