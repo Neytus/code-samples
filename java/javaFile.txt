@@ -8,17 +8,16 @@ sd
 fdfsdsf
 
 
-// DocSection: multiple_content_unpublishing_v3
+// DocSection: content_unpublishing_v3
  
 Java supercode basic 
 
 // EndDocSection
 
-// DocSection: multiple_content_unpublishing_v2
+// DocSection: content_unpublishing_v2
 
 Java supercode v2
 
 // EndDocSection
-
 
 return blgkfgjgjg;;;;;

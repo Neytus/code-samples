@@ -1,4 +1,4 @@
-// DocSection: single_stuff
+// DocSection: stuff
 // const KenticoCloud = require('kentico-cloud-delivery');
 
 // Create strongly typed models according to https://developer.kenticocloud.com/docs/strongly-typed-models
@@ -25,7 +25,7 @@ deliveryClient.items()
 
 // EndDocSection
 
-// DocSection: single_javascrstuff
+// DocSection: javascrstuff
 const KenticoCloud = require('kentico-cloud-delivery');
 
 // Create strongly typed models according to https://developer.kenticocloud.com/docs/strongly-typed-models
@@ -49,14 +49,14 @@ deliveryClient.item('on_roasts')
     .subscribe(response => console.log(response));
 // EndDocSection
 
-// DocSection: single_empty
+// DocSection: empty
                    
 
    
 
 // EndDocSection
 
-// DocSection: single_a_lot_of_stuff
+// DocSection: a_lot_of_stuff
 const KenticoCloud = require('kentico-cloud-delivery');
 
 // Create strongly typed models according to https://developer.kenticocloud.com/docs/strongly-typed-models
