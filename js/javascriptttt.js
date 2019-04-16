@@ -1,4 +1,4 @@
-// DocSection: stuff
+// DocSection: stuff_changed_codename
 // const KenticoCloud = require('kentico-cloud-delivery');
 
 // Create strongly typed models according to https://developer.kenticocloud.com/docs/strongly-typed-models
