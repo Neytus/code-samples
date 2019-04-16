@@ -34,4 +34,10 @@ pridany samplik
 
 // EndDocSection
 
+// DocSection: added_sample
+
+pridany presne ten isty samplik
+
+// EndDocSection
+
 return blgkfgjgjg;;;;;
