@@ -25,10 +25,4 @@ JavaRX supercode v2 - after PR
 // EndDocSection
 
 
-// DocSection: reactives
-
-Single JavaRX sample - after PR
-
-// EndDocSection
-
 return blgkfgjgjg;;;;;
