@@ -28,4 +28,10 @@ JavaRX supercode v2 - after PR
 // EndDocSection
 
 
+// DocSection: added_sample
+
+pridany samplik
+
+// EndDocSection
+
 return blgkfgjgjg;;;;;
