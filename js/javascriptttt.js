@@ -28,7 +28,7 @@ deliveryClient.items()
 // DocSection: javascrstuff
 const KenticoCloud = require('kentico-cloud-delivery');
 
-// Create strongly typed models according to https://developer.kenticocloud.com/docs/strongly-typed-models
+// Create strongly typed models according to https://developer.kenticocloud.com/docs
 class Article extends KenticoCloud.ContentItem {
     constructor() {
         super();
@@ -50,9 +50,9 @@ deliveryClient.item('on_roasts')
 // EndDocSection
 
 // DocSection: empty
-                   
 
-   
+
+
 
 // EndDocSection
 

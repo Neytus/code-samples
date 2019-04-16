@@ -1,9 +1,3 @@
-// DocSection: ceeeeshaaaaarp
- 
-C#
-
-// EndDocSection
-
 // DocSection: content_unpublishing_v2
 
 C# multiple
