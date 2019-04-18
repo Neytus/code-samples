@@ -40,9 +40,3 @@ return blgkfgjgjg;;;;;
 android supercode :O
 
 // EndDocSection
-
-// DocSection: test_code_samples
-
-huhuhuhuhuhhuhuhuhuhuhuhuhuuh (Android)
-
-// EndDocSection
