@@ -5,7 +5,7 @@ C# multiple
 // EndDocSection
 
 
-// DocSection: mamamamamaamamamma
+// DocSection: zmeneny_codename
 
 using System;
 using Newtonsoft.Json;
