@@ -35,3 +35,8 @@ pridany samplik
 // EndDocSection
 
 return blgkfgjgjg;;;;;
+
+// DocSection: testing_pridany sampleeeee
+android supercode :O
+
+// EndDocSection
