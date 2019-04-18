@@ -372,3 +372,8 @@ archivovany sample naspat pridany
 
 // EndDocSection
 
+// DocSection: test_code_samples
+
+  haha teraz sa ukaz
+
+// EndDocSection
