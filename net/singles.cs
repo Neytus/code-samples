@@ -32,14 +32,6 @@
 11
 // EndDocSection
 
-// DocSection: c12
-12
-// EndDocSection
-
-// DocSection: c13
-13
-// EndDocSection
-
 // DocSection: c14
 14
 // EndDocSection
