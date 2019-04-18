@@ -34,3 +34,10 @@ const edgeCasesArticle = {
 // EndDocSection:
 
 return blgkfgjgjg;;;;;
+
+
+// DocSection: test_code_samples
+
+huhuhuhuhuhhuhuhuhuhuhuhuhuuh (Java)
+
+// EndDocSection

@@ -59,3 +59,9 @@
 // DocSection: c20
 20
 // EndDocSection
+
+// DocSection: test_code_samples
+
+huhuhuhuhuhhuhuhuhuhuhuhuhuuh (.net)
+
+// EndDocSection
