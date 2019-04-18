@@ -363,3 +363,12 @@ sdaasdasd
 sdaasdasd
 
 // EndDocSection
+
+
+
+// DocSection: php_17ddoit
+
+archivovany sample naspat pridany
+
+// EndDocSection
+
