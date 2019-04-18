@@ -1,17 +1,11 @@
-// DocSection: c1
-1
-// EndDocSection
 
-// DocSection: c2
-2
-// EndDocSection
 
 // DocSection: c3
-3
+3 modified samplik
 // EndDocSection
 
 // DocSection: c4
-4
+4 takisto modified samplik
 // EndDocSection
 
 // DocSection: c5
