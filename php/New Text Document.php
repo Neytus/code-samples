@@ -363,15 +363,3 @@ sdaasdasd
 sdaasdasd
 
 // EndDocSection
-
-// DocSection: php_17dDoIT
-
-sdaasdasd
-
-// EndDocSection
-
-// DocSection: php_18dDoIT
-
-sdaasdasd
-
-// EndDocSection
