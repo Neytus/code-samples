@@ -1,12 +1,6 @@
-// DocSection: php_1
-
-sdaasdasd
-
-// EndDocSection
-
 // DocSection: php_2
 
-sdaasdasd
+UPDATED
 
 // EndDocSection
 

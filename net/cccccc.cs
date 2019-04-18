@@ -1,9 +1,3 @@
-// DocSection: content_unpublishing_v2
-
-C# multiple
-
-// EndDocSection
-
 
 // DocSection: zmeneny_codename
 
