@@ -8,12 +8,6 @@ sd
 fdfsdsf
 
 
-// DocSection: content_unpublishing_v3
-
-Java supercode - not basic at all
-
-// EndDocSection
-
 // DocSection: content_unpublishing_v2
 
 Java supercode v2
