@@ -10,9 +10,3 @@ javablabla
 
 // EndDocSection
 
-// DocSection: new_file_sample_something
-
-huhuhuhuhhuhuhuhuhuuhuhu
-
-// EndDocSection
-
