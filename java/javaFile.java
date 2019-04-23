@@ -33,7 +33,7 @@ return blgkfgjgjg;;;;;
 
 // DocSection: samples_miro_test
 
-znovu - pridany samplik - Java
+upraveny ultimatna oprava - BUGFIXEDDDDDDDDDD
 
 
 // EndDocSection

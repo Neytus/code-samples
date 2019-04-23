@@ -26,11 +26,4 @@ pridany samplik
 
 return blgkfgjgjg;;;;;
 
-// DocSection: samples_miro_test
-
-znovu - pridany samplik - Android
-
-(upraveny)
-
-// EndDocSection
 
