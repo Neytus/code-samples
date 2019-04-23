@@ -33,8 +33,4 @@ znovu - pridany samplik - Android
 (upraveny)
 
 // EndDocSection
-  
-// DocSection: test_add
-zmeneney code samlpeeeeeee
 
-// EndDocSection
