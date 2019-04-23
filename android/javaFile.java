@@ -35,6 +35,6 @@ znovu - pridany samplik - Android
 // EndDocSection
   
 // DocSection: test_add
- lets start testing
+zmeneney code samlpeeeeeee
 
 // EndDocSection
