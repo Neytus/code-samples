@@ -30,4 +30,6 @@ return blgkfgjgjg;;;;;
 
 znovu - pridany samplik - Android
 
+(upraveny)
+
 // EndDocSection
