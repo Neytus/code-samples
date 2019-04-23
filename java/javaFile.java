@@ -30,9 +30,3 @@ const edgeCasesArticle = {
 // EndDocSection:
 
 return blgkfgjgjg;;;;;
-
-// DocSection: samples_miro_test
-
-pridany samplik - Java
-
-// EndDocSection
