@@ -26,7 +26,8 @@ pridany samplik
 
 return blgkfgjgjg;;;;;
 
-// DocSection: testing_pridany sampleeeee
-android supercode :O
+// DocSection: samples_miro_test
+
+pridany samplik - Android
 
 // EndDocSection
