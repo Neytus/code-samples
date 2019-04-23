@@ -59,10 +59,3 @@ deliveryClient.item('on_roasts')
 // DocSection: a_lot_of_stuff
 not a lot of stuff anymore
 // EndDocSection
-
-
-// DocSection: samples_miro_test
-
-pridany samplik - Javascript
-
-// EndDocSection
