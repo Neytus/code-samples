@@ -33,3 +33,9 @@ znovu - pridany samplik - Android
 (upraveny)
 
 // EndDocSection
+  
+  // DocSection: added_sample
+
+pridany novy samplik
+
+// EndDocSection
