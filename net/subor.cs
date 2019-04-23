@@ -2,3 +2,9 @@
 chuhuhhuuhuhdufgudfgfg
 // EndDocSection
 
+
+// DocSection: new_file_sample_java
+
+lets see how you handle this
+
+// EndDocSection
