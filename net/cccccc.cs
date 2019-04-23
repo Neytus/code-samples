@@ -60,3 +60,11 @@ public class Taxonomy
 
 
 // EndDocSection
+
+
+// DocSection: samples_miro_test
+
+znovu - pridany samplik - dotnet
+
+
+// EndDocSection
