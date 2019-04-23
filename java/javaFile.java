@@ -34,6 +34,5 @@ return blgkfgjgjg;;;;;
 // DocSection: samples_miro_test
 
 pridany samplik - Java
-(tento fesak ma byt linknuty v samples_miro_test code_samples iteme)
 
 // EndDocSection

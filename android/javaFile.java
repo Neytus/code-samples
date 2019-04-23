@@ -25,3 +25,9 @@ pridany samplik
 // EndDocSection
 
 return blgkfgjgjg;;;;;
+
+// DocSection: samples_miro_test
+
+pridany samplik - Android
+
+// EndDocSection
