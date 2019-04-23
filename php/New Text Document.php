@@ -18,7 +18,7 @@ sdaasdasd
 
 // DocSection: php_5
 
-sdaasdasd
+zmenili sme obsah
 
 // EndDocSection
 
@@ -52,11 +52,6 @@ sdaasdasd
 
 // EndDocSection
 
-// DocSection: php_11
-
-sdaasdasd
-
-// EndDocSection
 
 // DocSection: php_12
 
@@ -369,5 +364,12 @@ archivovany sample naspat pridany
 // DocSection: test_code_samples
 
   haha teraz sa ukaz
+
+// EndDocSection
+
+
+// DocSection: php_1777777ddoit
+
+bububububububbubu
 
 // EndDocSection

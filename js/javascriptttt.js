@@ -56,6 +56,3 @@ deliveryClient.item('on_roasts')
 
 // EndDocSection
 
-// DocSection: a_lot_of_stuff
-not a lot of stuff anymore
-// EndDocSection

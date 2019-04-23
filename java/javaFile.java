@@ -7,16 +7,9 @@ sd
 
 fdfsdsf
 
-
-// DocSection: content_unpublishing_v2
-
-Java supercode v2 zxczxcxzcxc
-
-// EndDocSection
-
 // DocSection: new_java_sample
 
-ZMENILO SA TOHO VELA
+ZMENILO SA TOHO ESTE VIAC
 
 const edgeCasesArticle = {
     ...shortArticle,
@@ -33,7 +26,7 @@ return blgkfgjgjg;;;;;
 
 // DocSection: samples_miro_test
 
-upraveny ultimatna oprava - BUGFIXEDDDDDDDDDD
+upravenyXXXXXXXXXXXXXXXX
 
 
 // EndDocSection

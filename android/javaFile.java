@@ -26,4 +26,10 @@ pridany samplik
 
 return blgkfgjgjg;;;;;
 
+// DocSection: pridavam_novy_kod
+
+pridany samplik
+
+// EndDocSection
+
 
