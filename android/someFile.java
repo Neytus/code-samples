@@ -12,3 +12,10 @@ ahahahaha
 som spat
 
 // EndDocSection
+
+
+// DocSection: test_add
+
+som spat spat
+
+// EndDocSection
