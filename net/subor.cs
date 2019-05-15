@@ -13,3 +13,8 @@ lets see how you handle this
 // DocSection: pridavam_novy_kod
 dotneti novy kod
 // EndDocSection
+
+// DocSection: novy_samplik
+QQQQQQQQQQQQQQQQQQQQQQWWWWWWWWWWWWWWWWWWWEEEEEEEEEEEEEEEEEEEEEEEEE
+// EndDocSection
+
