@@ -8,3 +8,8 @@ chuhuhhuuhuhdufgudfgfg
 lets see how you handle this
 
 // EndDocSection
+
+
+// DocSection: pridavam_novy_kod
+dotneti novy kod
+// EndDocSection
