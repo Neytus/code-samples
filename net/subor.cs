@@ -20,3 +20,8 @@ dotneti novy kod
 QQQQQQQQQQQQQQQQQQQQQQWWWWWWWWWWWWWWWWWWWEEEEEEEEEEEEEEEEEEEEEEEEE
 // EndDocSection
 
+// DocSection: test_samples
+
+huhuhuhuhuggfgdggdfgdfgfdgdfgdf
+
+// EndDocSection

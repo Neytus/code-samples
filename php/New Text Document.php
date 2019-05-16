@@ -373,3 +373,9 @@ archivovany sample naspat pridany
 bububububububbubu
 
 // EndDocSection
+
+// DocSection: test_samples
+
+huhuhuhuhu
+
+// EndDocSection

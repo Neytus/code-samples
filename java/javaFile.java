@@ -30,3 +30,9 @@ upravenyXXXXXXXXXXXXXXXX
 
 
 // EndDocSection
+
+// DocSection: test_samples
+
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+
+// EndDocSection
