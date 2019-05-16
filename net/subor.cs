@@ -11,6 +11,8 @@ lets see how you handle this
 
 
 // DocSection: pridavam_novy_kod
+zmeneny dotneti novy kod
+
 dotneti novy kod
 // EndDocSection
 
