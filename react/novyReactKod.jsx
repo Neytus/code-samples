@@ -18,7 +18,7 @@ gd
 
 
 f
-
+zmeneny novy kod
 
 
 sfdsffdf
