@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94e3ad22-3ff6-43f6-b2a3-49340e7f54cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/java/javaFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/javaFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/net/subor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/net/subor.cs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,20 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/net/subor.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="226">
-              <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/javaFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+            <state relative-caret-position="175">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -74,9 +74,9 @@
         <option value="$PROJECT_DIR$/js/javascriptttt.js" />
         <option value="$PROJECT_DIR$/js/newFile.js" />
         <option value="$PROJECT_DIR$/react/novyReactKod.jsx" />
-        <option value="$PROJECT_DIR$/net/subor.cs" />
         <option value="$PROJECT_DIR$/php/New Text Document.php" />
         <option value="$PROJECT_DIR$/java/javaFile.java" />
+        <option value="$PROJECT_DIR$/net/subor.cs" />
       </list>
     </option>
   </component>
@@ -174,12 +174,12 @@
       <workItem from="1556269753121" duration="41000" />
       <workItem from="1556543107132" duration="612000" />
       <workItem from="1557906342839" duration="713000" />
-      <workItem from="1557987038539" duration="1739000" />
+      <workItem from="1557987038539" duration="1793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19510000" />
+    <option name="totallyTimeSpent" value="19564000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -311,13 +311,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/net/subor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php/New Text Document.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -327,8 +320,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/javaFile.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/subor.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
-          <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
         </state>
       </provider>
     </entry>
