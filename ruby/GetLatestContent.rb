@@ -1,4 +1,4 @@
-# DocSection: test_codename_uc1s3g6s12
+# DocSection: test_codename_1joon4k4d8
 require 'delivery-sdk-ruby'
 
 delivery_client = KenticoCloud::Delivery::DeliveryClient.new project_id: '975bf280-fd91-488c-994c-2f04416e5ee3'
@@ -7,4 +7,4 @@ delivery_client.item('on_roasts')
                .execute do |response|
                  item = response.item
                end
-ruby code sample_PxvcRtBr26# EndDocSection
+ruby code sample_ujZMSgr3P7# EndDocSection
