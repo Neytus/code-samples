@@ -5,27 +5,7 @@ dgf
 df
 s
 // DocSection: abcdefgh
-
-wowowowowowowow dnsdjsdfjjdf
-hg
-h
-df
-fg
-dfg
-d
-fg
-
-f
-gdsgf
-g
-s
-hjsgf
-jfgf
-jj
-gh
-jghj
-g
-gj
+upraveny obsah
 
 // EndDocSection
 
@@ -37,7 +17,6 @@ FYdfs
 
 // DocSection: novy_vztvoreny
 
-chichichichi
 
 // EndDocSection
 
