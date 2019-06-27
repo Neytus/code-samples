@@ -9,17 +9,6 @@ lets see how you handle this
 
 // EndDocSection
 
-
-// DocSection: pridavam_novy_kod
-zmeneny dotneti novy kod
-
-dotneti novy kod
-// EndDocSection
-
-// DocSection: novy_samplik
-QQQQQQQQQQQQQQQQQQQQQQWWWWWWWWWWWWWWWWWWWEEEEEEEEEEEEEEEEEEEEEEEEE
-// EndDocSection
-
 // DocSection: test_samples
 
 huhuhuhuhuggfgdggdfgdfgfdgdfgdf CHANGED
