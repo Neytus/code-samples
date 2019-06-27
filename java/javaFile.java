@@ -36,3 +36,9 @@ upravenyXXXXXXXXXXXXXXXX
 SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS CHAGNED
 
 // EndDocSection
+
+// DocSection: some_new_sample
+
+lets test the Gh Sync
+
+// EndDocSection
